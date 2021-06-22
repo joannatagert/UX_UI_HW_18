@@ -90,7 +90,7 @@ margin: 0;
                color: black;
                font-weight: bold;
             }
-/* media query to display nav items in bold when screen size is less than 1000px */
+/* media query to display nav items in bold when screen size is less than 1000px! */
             @media only screen and (max-width: 1000px) {
                #navigation {
                  display: none;
